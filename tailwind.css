@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@600&family=Nunito+Sans:wght@700&display=swap");
+
+.text-xss {
+  font-size: 10px;
+}
