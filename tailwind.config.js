@@ -1,6 +1,6 @@
 module.exports = {
   mode: "jit",
-  purge: ["*.html"],
+  purge: ["*.html", "tailwind.css"],
   darkMode: false, // or 'media' or 'class'
   theme: {
     fontFamily: {
